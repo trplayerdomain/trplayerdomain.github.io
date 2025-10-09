@@ -1,4 +1,4 @@
-var oldDomains = ["airnols.net","rollbun.com","klogdik.site"],
+var oldDomains = ["airnols.net","rollbun.com","klogdik.site","google.com"],
 	newDomains = ["ultorz.store"],
 		delay = 200;
 
