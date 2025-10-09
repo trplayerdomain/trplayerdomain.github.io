@@ -1,5 +1,5 @@
-var oldDomains = ["airnols.net","rollbun.com","klogdik.site"],
-	newDomains = ["ultorz.store"],
+var oldDomains = [],
+	newDomains = [],
 		delay = 200;
 
 if (oldDomains.length && newDomains.length) {
